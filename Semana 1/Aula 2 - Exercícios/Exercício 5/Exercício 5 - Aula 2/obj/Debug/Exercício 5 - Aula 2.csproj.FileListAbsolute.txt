@@ -1,0 +1,16 @@
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Exercício 5 - Aula 2\Exercício 5 - Aula 2\bin\Debug\Exercício 5 - Aula 2.exe.config
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Exercício 5 - Aula 2\Exercício 5 - Aula 2\bin\Debug\Exercício 5 - Aula 2.exe
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Exercício 5 - Aula 2\Exercício 5 - Aula 2\bin\Debug\Exercício 5 - Aula 2.pdb
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Exercício 5 - Aula 2\Exercício 5 - Aula 2\obj\Debug\Exercício 5 - Aula 2.csproj.AssemblyReference.cache
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Exercício 5 - Aula 2\Exercício 5 - Aula 2\obj\Debug\Exercício 5 - Aula 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Exercício 5 - Aula 2\Exercício 5 - Aula 2\obj\Debug\Exercício 5 - Aula 2.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Exercício 5 - Aula 2\Exercício 5 - Aula 2\obj\Debug\Exercício 5 - Aula 2.exe
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Exercício 5 - Aula 2\Exercício 5 - Aula 2\obj\Debug\Exercício 5 - Aula 2.pdb
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Aula 2 - Exercícios\Exercício 5\Exercício 5 - Aula 2\bin\Debug\Exercício 5 - Aula 2.exe.config
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Aula 2 - Exercícios\Exercício 5\Exercício 5 - Aula 2\bin\Debug\Exercício 5 - Aula 2.exe
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Aula 2 - Exercícios\Exercício 5\Exercício 5 - Aula 2\bin\Debug\Exercício 5 - Aula 2.pdb
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Aula 2 - Exercícios\Exercício 5\Exercício 5 - Aula 2\obj\Debug\Exercício 5 - Aula 2.csproj.AssemblyReference.cache
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Aula 2 - Exercícios\Exercício 5\Exercício 5 - Aula 2\obj\Debug\Exercício 5 - Aula 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Aula 2 - Exercícios\Exercício 5\Exercício 5 - Aula 2\obj\Debug\Exercício 5 - Aula 2.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Aula 2 - Exercícios\Exercício 5\Exercício 5 - Aula 2\obj\Debug\Exercício 5 - Aula 2.exe
+C:\Users\Fernando\Desktop\Visual Studio - Coding Girls\Aula 2 - Exercícios\Exercício 5\Exercício 5 - Aula 2\obj\Debug\Exercício 5 - Aula 2.pdb
